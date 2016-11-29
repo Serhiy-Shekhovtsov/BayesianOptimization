@@ -1,5 +1,5 @@
 """
-Baysian hyperparameter optimization [https://github.com/fmfn/BayesianOptimization]
+Bayesian hyperparameter optimization [https://github.com/fmfn/BayesianOptimization]
 for Mean Absoulte Error objective
 on default features for https://www.kaggle.com/c/allstate-claims-severity
 """
